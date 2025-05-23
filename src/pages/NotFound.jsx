@@ -3,7 +3,7 @@ import NotFoundAnimation from "@/404assets/NotFoundAnimation.json";
 
 export const NotFound = () => {
     return (
-        <div>
+        <div className="fixed flex items-center justify-center overflow-hidden">
             <Lottie animationData={NotFoundAnimation} />
         </div>
     );
