@@ -40,14 +40,14 @@ const projects = [
         githubUrl: "https://github.com/kristansanjuan/Portfolio.git",
     },
 
-    {
-        id: 5,
-        title: "GV-Live Landing Page",
-        description: "A landing page web application for my OJT company, built with React, SCSS, and Framer Motion to create smooth parallax scrolling effects.",
-        image: "/projects/project_5.png",
-        tags: ["React", "scss"],
-        githubUrl: "https://github.com/kristansanjuan/GV-Live.git",
-    },
+    // {
+    //     id: 5,
+    //     title: "GV-Live Landing Page",
+    //     description: "A landing page web application for my OJT company, built with React, SCSS, and Framer Motion to create smooth parallax scrolling effects.",
+    //     image: "/projects/project_5.png",
+    //     tags: ["React", "scss"],
+    //     githubUrl: "https://github.com/kristansanjuan/GV-Live.git",
+    // },
 
     {
         id: 6,
