@@ -17,7 +17,7 @@ const projects = [
         title: "EcoSort",
         description: "A Mobile application using Image Recognition Technology to classify common household waste into biodegradable, non-biodegradable, recyclable, and e-waste.",
         image: "/projects/project_2.png",
-        tags: ["Java", "TensorFlow lite,", "Android"],
+        tags: ["Java", "TensorFlow lite", "Android"],
         demoUrl: "https://drive.google.com/file/d/1wPKKrFPyllY7Rjg_uw9ZjL05aac8uWGZ/view?usp=sharing",
         githubUrl: "https://github.com/kristansanjuan/Trash-App.git",
     },
