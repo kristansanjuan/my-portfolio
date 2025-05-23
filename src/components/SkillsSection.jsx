@@ -11,12 +11,12 @@ const skills = [
     { name: "Tailwind CSS", level: "Beginner", category: "Web Development" },
     { name: "HTML", level: "Intermediate", category: "Web Development" },
     { name: "CSS", level: "Intermediate", category: "Web Development" },
+    { name: "SCSS", level: "Basic", category: "Web Development" },
 
     { name: "Machine Learning", level: "Basic", category: "Data Science" },
 
     { name: "Microsoft Office", level: "Advanced", category: "Productivity" },
     { name: "Photoshop", level: "Intermediate", category: "Productivity" },
-    { name: "CapCut", level: "Intermediate", category: "Productivity" },
     { name: "Filmora", level: "Advanced", category: "Productivity" },
     { name: "Premiere Pro", level: "Intermediate", category: "Productivity" },
     { name: "GitHub", level: "Intermediate", category: "Productivity" },

@@ -4,29 +4,58 @@ import { Github } from "lucide-react";
 const projects = [
     {
         id: 1,
-        title: "Project One",
-        description: "This is a description of project one.",
-        image: "/",
-        tags: ["React", "JavaScript"],
-        githubUrl: "#",
+        title: "Black Bean Company",
+        description: "A hotel reservation system with both user and admin sides. Users can reserve rooms, order additional necessities like pillows and toiletries, and receive a detailed receipt for each booking.",
+        image: "/projects/project_1.png",
+        tags: ["Java"],
+        demoUrl: "https://www.youtube.com/watch?v=0v1X2g3j8aA",
+        githubUrl: "https://github.com/kristansanjuan/Hotel-Reservation.git",
     },
 
     {
-        id: 1,
-        title: "Project One",
-        description: "This is a description of project one.",
-        image: "/",
-        tags: ["React", "JavaScript"],
-        githubUrl: "#",
+        id: 2,
+        title: "EcoSort",
+        description: "A Mobile application using Image Recognition Technology to classify common household waste into biodegradable, non-biodegradable, recyclable, and e-waste.",
+        image: "/projects/project_2.png",
+        tags: ["Java", "TensorFlow lite,", "Android"],
+        demoUrl: "https://drive.google.com/file/d/1wPKKrFPyllY7Rjg_uw9ZjL05aac8uWGZ/view?usp=sharing",
+        githubUrl: "https://github.com/kristansanjuan/Trash-App.git",
     },
 
     {
-        id: 1,
-        title: "Project One",
-        description: "This is a description of project one.",
-        image: "/",
-        tags: ["React", "JavaScript"],
-        githubUrl: "#",
+        id: 3,
+        title: "Ellavill Baking Supplies Inventory System",
+        description: "A web application for managing inventory and sales for a local baking supply shop.",
+        image: "/projects/project_3.png",
+        tags: ["Javascript", "Html", "Css", "Php"],
+        githubUrl: "https://github.com/kristansanjuan/IMS.git",
+    },
+
+    {
+        id: 4,
+        title: "Glass Portfolio",
+        description: "A responsive personal portfolio web application featuring a modern glassmorphism design, created for showcasing my OJT projects and skills.",
+        image: "/projects/project_4.png",
+        tags: ["Javascript", "Html", "Css"],
+        githubUrl: "https://github.com/kristansanjuan/Portfolio.git",
+    },
+
+    {
+        id: 5,
+        title: "GV-Live Landing Page",
+        description: "A landing page web application for my OJT company, built with React, SCSS, and Framer Motion to create smooth parallax scrolling effects.",
+        image: "/projects/project_5.png",
+        tags: ["React", "scss"],
+        githubUrl: "https://github.com/kristansanjuan/GV-Live.git",
+    },
+
+    {
+        id: 6,
+        title: "Machine Learning Classification",
+        description: "A machine learning model trained to classify political bias into left, right, or center categories, optimized using hyperparameter grid search.",
+        image: "/projects/project_6.png",
+        tags: ["Python"],
+        githubUrl: "https://github.com/kristansanjuan/Machine_Learning_Classification.git",
     },
 ]
 
