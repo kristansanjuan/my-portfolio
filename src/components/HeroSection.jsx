@@ -12,9 +12,9 @@ export const HeroSection = () => {
                 </h1>
 
                 <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-                    Motivated learner with skills in React.js, Tailwind CSS,
-                    and basic machine learning. Strong in time management and
-                    teamwork, eager to apply technical knowledge and grow in a fast-paced environment.
+                    Passionate web developer with strong teamwork
+                    and collaboration skills. Adaptable, motivated,
+                    and eager to contribute and grow in a dynamic environment.
                 </p>
 
                 <div className="pt-4 opacity-0 animate-fade-in-delay-4">
