@@ -8,7 +8,7 @@ const navItems = [
     { name: "Skills", href: "#skills" },
     { name: "Projects", href: "#projects" },
     { name: "Contact", href: "#contact" },
-    { name: "Resume", href: "/resume.pdf" },
+    { name: "Resume", href: "/Kristan-resume.pdf" },
     { name: "GitHub", href: "https://github.com/kristansanjuan" }
 ]
 
